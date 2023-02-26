@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Invex",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Invex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Invex-Debug-131054e0e42ff3d8ea25.json",
+					"name" : "Invex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Invex_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Invex_autogen-Debug-d9fef2c1239f42c7c24d.json",
+					"name" : "Invex_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Invex_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Invex_autogen_timestamp_deps-Debug-eae3c6eaa059f90af255.json",
+					"name" : "Invex_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Documents/Invex/cmake-build-debug",
+		"source" : "D:/Documents/Invex"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

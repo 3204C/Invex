@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+            <file>img/6P Sprockets.jpg</file>
+            <file>img/Angles.jpg</file>
+            <file>img/Ball Bearings.jpg</file>
+            <file>img/Bars.jpg</file>
+            <file>img/Battery Cables.jpg</file>
+            <file>img/Bearings.jpg</file>
+            <file>img/C-Channels.jpg</file>
+            <file>img/Flex Wheels.jpg</file>
+            <file>img/Gearbox Brackets.jpg</file>
+            <file>img/Gears.jpg</file>
+            <file>img/Grub Screws.jpg</file>
+            <file>img/Gussets.jpg</file>
+            <file>img/High Strength Sprockets.jpg</file>
+            <file>img/Hinges.jpg</file>
+            <file>img/Intake Rollers.jpg</file>
+            <file>img/Low Strength Sprockets.jpg</file>
+            <file>img/Motors.jpg</file>
+            <file>img/Nuts.jpg</file>
+            <file>img/Plates.jpg</file>
+            <file>img/Pneumatics.jpg</file>
+            <file>img/Retainer Bars.jpg</file>
+            <file>img/Retainers.jpg</file>
+            <file>img/Rubber Links.jpg</file>
+            <file>img/Screws.jpg</file>
+            <file>img/Sensors.jpg</file>
+            <file>img/Shaft Collars.jpg</file>
+            <file>img/Shafts.jpg</file>
+            <file>img/Spacers.jpg</file>
+            <file>img/Standoffs.jpg</file>
+            <file>img/Turntables.jpg</file>
+            <file>img/U-Channels.jpg</file>
+            <file>img/Universal Joints.jpg</file>
+            <file>img/Wheels.jpg</file>
+    </qresource>
+</RCC>

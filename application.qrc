@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/res/materialFont.ttf</file>
+        <file>qml/res/Roboto-Black.ttf</file>
+        <file>qml/res/Roboto-BlackItalic.ttf</file>
+        <file>qml/res/Roboto-Bold.ttf</file>
+        <file>qml/res/Roboto-BoldItalic.ttf</file>
+        <file>qml/res/Roboto-Italic.ttf</file>
+        <file>qml/res/Roboto-Light.ttf</file>
+        <file>qml/res/Roboto-LightItalic.ttf</file>
+        <file>qml/res/Roboto-Medium.ttf</file>
+        <file>qml/res/Roboto-MediumItalic.ttf</file>
+        <file>qml/res/Roboto-Regular.ttf</file>
+        <file>qml/res/Roboto-Thin.ttf</file>
+        <file>qml/res/Roboto-ThinItalic.ttf</file>
+        <file>qml/res/palette.js</file>
+        <file>qml/res/shoppingCart.svg</file>
+        <file>qml/res/C-Channels.png</file>
+        <file>qml/widgets/PartCard.qml</file>
+        <file>qml/widgets/SearchBar.qml</file>
+        <file>qml/widgets/FAB.qml</file>
+        <file>qml/widgets/Button.qml</file>
+        <file>qml/widgets/RadioButton.qml</file>
+        <file>qml/widgets/Overlay.qml</file>
+        <file>qml/widgets/CheckoutPartCard.qml</file>
+    </qresource>
+</RCC>

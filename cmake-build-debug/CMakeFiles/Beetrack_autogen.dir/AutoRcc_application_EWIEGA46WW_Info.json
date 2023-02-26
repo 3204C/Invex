@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "D:/Documents/Invex/cmake-build-debug/Beetrack_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Documents/Invex/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Documents/Invex/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Documents/Invex",
+	"CMAKE_SOURCE_DIR" : "D:/Documents/Invex",
+	"INCLUDE_DIR" : "D:/Documents/Invex/cmake-build-debug/Beetrack_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Documents/Invex/qml/main.qml",
+		"D:/Documents/Invex/qml/res/Roboto-Regular.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-BoldItalic.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-Light.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-MediumItalic.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-BlackItalic.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-Thin.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-LightItalic.ttf",
+		"D:/Documents/Invex/qml/res/palette.js",
+		"D:/Documents/Invex/qml/res/Roboto-Italic.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-Black.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-Medium.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-ThinItalic.ttf",
+		"D:/Documents/Invex/qml/res/Roboto-Bold.ttf",
+		"D:/Documents/Invex/qml/res/materialFont.ttf"
+	],
+	"LOCK_FILE" : "D:/Documents/Invex/cmake-build-debug/CMakeFiles/Beetrack_autogen.dir/AutoRcc_application_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "application" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_application.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Documents/Invex/cmake-build-debug/CMakeFiles/Beetrack_autogen.dir/AutoRcc_application_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Documents/Invex/application.qrc",
+	"VERBOSITY" : 0
+}
